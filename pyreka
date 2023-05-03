@@ -1,3 +1,8 @@
 Brenner:
 - wenn Brennerflamme nicht zündet, Brennerluft variieren. Wert (30-60)
 - kontrollieren ob Anzeige 04 am Regler im Regelschrank
+
+
+Versuch_03052023:
+-start: 08:30 Ortszeit
+- 08:17 (EMERSON Data logger) = 09:19 (laptop Zeit)
